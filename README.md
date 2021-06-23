@@ -1,2 +1,1 @@
-# assign
-Created with CodeSandbox
+# vite-vue3-template
